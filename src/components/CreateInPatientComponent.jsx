@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PatientService from '../services/PatientService';
 
-
+//
 class CreateInPatientComponent extends Component {
     constructor(props) {
         super(props)
