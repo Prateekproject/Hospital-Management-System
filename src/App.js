@@ -6,7 +6,7 @@ import HeaderComponent from './components/HeaderComponent';
 import FooterComponent from './components/FooterComponent';
 import CreateOutPatientComponent from './components/CreateOutPatientComponent';
 import CreateInPatientComponent from './components/CreateInPatientComponent';
-
+//
 function App() {
   return (
     <div>
